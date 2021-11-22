@@ -1,0 +1,13 @@
+﻿  MyViewer.cpp
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\MyViewer.cpp(236,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\MyViewer.cpp(258,53): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\MyViewer.cpp(460,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\MyViewer.cpp(754,19): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\fajlok\compile\OpenMesh 8.1\include\OpenMesh\Tools\Subdivider\Uniform\Sqrt3T.hh(160,56): warning C4100: '_update_points': unreferenced formal parameter
+C:\fajlok\compile\OpenMesh 8.1\include\OpenMesh\Tools\Subdivider\Uniform\Sqrt3T.hh(161): message : while compiling class template member function 'bool OpenMesh::Subdivider::Uniform::Sqrt3T<MyViewer::MyMesh,double>::subdivide(MeshType &,size_t,const bool)'
+          with
+          [
+              MeshType=MyViewer::MyMesh
+          ]
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\MyViewer.cpp(806): message : see reference to class template instantiation 'OpenMesh::Subdivider::Uniform::Sqrt3T<MyViewer::MyMesh,double>' being compiled
+  sample-framework.vcxproj -> C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\debug\sample-framework.exe

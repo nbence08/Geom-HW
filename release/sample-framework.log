@@ -1,0 +1,3 @@
+﻿  curves.cc
+C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\curves.cc(77,56): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  sample-framework.vcxproj -> C:\Users\nbenc\Desktop\BME\3D szám geom\hf\sample-framework-master\release\sample-framework.exe
